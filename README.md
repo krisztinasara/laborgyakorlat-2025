@@ -1,5 +1,9 @@
 # Laborgyakorlat 2025
 
+## Háttér
+
+[Itt találjátok a preprintünket](https://dx.doi.org/10.2139/ssrn.5039890), ahol el van magyarázva a kutatás célja, valamint a feladatok és az indexek. Ehhez extra a mostani csomagban a vizuális szegmentálás és a NAD (távoli függőségek statisztikai tanulása).
+
 ## Tudnivalók
 
 * Mindenkinek alapvetően hat fiatal felnőtt résztvevőtől kell adatot gyűjtenie (18-30 év).
@@ -23,8 +27,21 @@ A 65 év feletti résztvevőket szűrni kell enyhe kognitív károsodás és dem
 * A MoCA teszt pontszámait fel kell jegyezni abba a táblázatba, amelyben a résztvevőket rögzítjük.  
 * Érdemes a MoCA tesztet az első feladatok egyikeként elvégezni, hogy lássuk, a résztvevő megfelelő-e a mintába. Ha 24 pont alatti eredményt ér el, sajnos nem tudjuk felhasználni az adatait. Ez azt jelenti, hogy enyhe kognitív károsodásra vagy demenciára utaló jelek mutatkoznak, ha a pontszám 18 alatti. Ilyen esetekben finoman jelezzük, hogy egyes válaszai gyanút kelthetnek, és javasoljuk, hogy forduljon szakemberhez. Ha bizonytalan vagy abban, hogyan kommunikáld ezt, bátran keresd a kutatócsoportot! Érdemes 1-2 feladatot elvégezni vele, hogy komfortosan érezze magát.
 
+## Időpontok, határidők
+
+| Dátum | Mi történik? |
+| --- | --- |
+| 2025. március 21. 12:15-13:45 | fakultatív online konzultáció |
+| 2025. március 28. 12:15-13:45 | személyes konzultáció |
+| 2025. április 4. 12:15-13:45 | személyes konzultáció |
+| 2025. április 11. 12:15-13:45 | fakultatív online konzultáció |
+| 2025. április 16. | adatgyűjtés határidő |
+| 2025. április 25. 12:15-13:45 | fakultatív online konzultáció |
+| 2025. május 9. 12:15-13:45 | személyes konzultáció |
+| 2025. május 16. 12:15-13:45 | fakultatív online konzultáció |
+| 2025. május 16. | laborgyakorlat dolgozat leadás belső határidő |
+| 2025. május 23. | laborgyakorlat dolgozat leadás határidő |
+
 ## Kimenet
 
-Adatgyűjtés határidő: április 16.
-
-Laborgyakorlat dolgozat leadási határidő: május 23.
+[Itt találjátok a laborgyakorlat dolgozat követelményeit.](https://docs.google.com/document/d/1GQqpNJ0kBTLvq4XZZbJA2vbaEJHiZRUnDn7n1qIYavk/edit?usp=sharing)
