@@ -5,6 +5,7 @@
 * Mindenkinek alapvetően hat fiatal felnőtt résztvevőtől kell adatot gyűjtenie (18-30 év).
 * Van speciális életkorú résztvevőkre is szükségünk. Ha ilyen résztvevőtől gyűjtötök adatot, az kettő fiatal felnőttet ér. Ezt ne gyűjtsétek automatikusan magatoktól, hanem majd beszéljük meg.
 * Úgy tudtok adatot gyűjteni, hogy elkülditek ezeket a linkeket a résztvevőknek, és ők kitöltik a feladatokat a számítógépükön.
+* Ha ki szeretnétek próbálni a feladatokat, akkor mindenképpen a **9999** azonosítót adjátok meg!
 
 [Innen éritek el a feladatleírásokat a **FIATAL FELNŐTTEK SZÁMÁRA**, ahonnan a feladatok is megnyílnak.](https://docs.google.com/document/d/1Q8fyEsORedEGjgNjt5hAPKmaYliPlovz3-34f3MnoMM/edit?usp=sharing)
 
