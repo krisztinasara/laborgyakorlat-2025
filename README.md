@@ -25,4 +25,6 @@ A 65 év feletti résztvevőket szűrni kell enyhe kognitív károsodás és dem
 
 ## Kimenet
 
-TBD
+Adatgyűjtés határidő: április 16.
+
+Laborgyakorlat dolgozat leadási határidő: május 23.
