@@ -7,7 +7,7 @@
 ## Tudnivalók
 
 * Mindenkinek alapvetően hat fiatal felnőtt résztvevőtől kell adatot gyűjtenie (18-30 év).
-* Van speciális életkorú résztvevőkre is szükségünk. Ha ilyen résztvevőtől gyűjtötök adatot, az kettő fiatal felnőttet ér. Ezt ne gyűjtsétek automatikusan magatoktól, hanem majd beszéljük meg.
+* Van speciális életkorú résztvevőkre is szükségünk. Ha ilyen résztvevőtől gyűjtötök adatot, az kettő fiatal felnőttet ér. Ezt ne gyűjtsétek automatikusan magatoktól, hanem majd beszéljük meg. Maximum kettő speciális életkorú résztvevőt lehet gyűjteni. Tehát a lehetséges kombinációk: 1) 6 fiatal, 2) 1 idős + 4 fiatal, 3) 2 idős + 2 fiatal. Akár többet is lehet gyűjteni!
 * Úgy tudtok adatot gyűjteni, hogy elkülditek ezeket a linkeket a résztvevőknek, és ők kitöltik a feladatokat a számítógépükön.
 * Ha ki szeretnétek próbálni a feladatokat, akkor mindenképpen a **9999** azonosítót adjátok meg!
 
