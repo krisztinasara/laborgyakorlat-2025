@@ -33,7 +33,7 @@ A 65 év feletti résztvevőket szűrni kell enyhe kognitív károsodás és dem
 | --- | --- |
 | 2025. március 21. 12:15-13:45 | fakultatív online konzultáció |
 | 2025. március 28. 12:15-13:45 | személyes konzultáció |
-| 2025. április 4. 12:15-13:45 | személyes konzultáció |
+| 2025. április 4. 10:45-12:15 | személyes konzultáció |
 | 2025. április 11. 12:15-13:45 | fakultatív online konzultáció |
 | 2025. április 16. | adatgyűjtés határidő |
 | 2025. április 25. 12:15-13:45 | fakultatív online konzultáció |
